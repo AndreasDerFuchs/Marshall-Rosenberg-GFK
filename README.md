@@ -1,3 +1,8 @@
+**Hinweis zur deutschen Übersetzung**
+Dies ist eine freie, nicht autorisierte und unverbindliche deutsche Übersetzung des englischsprachigen Originals [Marshall Rosenberg – Nonviolent Communication – Study Companion](https://github.com/cognitivetech/Marshall-Rosenberg-NVC).
+Die Übersetzung dient ausschließlich der leichteren Zugänglichkeit der Inhalte. Bei Unklarheiten oder Abweichungen ist das englische Original maßgeblich.
+
+
 # Marshall Rosenberg – Gewaltfreie Kommunikation – Studienbegleiter
 
 [Selbstlernleitfaden zur GFK](https://www.cnvc.org/online-learning/nvc-instruction-guide/nvc-instruction-guide)
@@ -101,7 +106,7 @@
 
 ## GFK-Modell
 
-* [Die 2 Teile und 4 Komponenten der GFK](https://www.cnvc.org/learn-nvc/the-nvc-model)
+* [Die 2 Teile und 4 Komponenten der GFK](https://baynvc.org/what-nvc-is/)
 
 [![](https://www.epicflow.com/wp-content/uploads/2019/07/nonviolent_communication_components_scheme.png)](https://www.epicflow.com/blog/how-to-communicate-actionable-feedback/)
 
@@ -134,7 +139,7 @@ Formuliere eine konkrete Handlungsbitte, um das gerade erkannte Bedürfnis zu er
 ## Gefühlsliste
 
 * [NVC-UK – Gefühlsliste](https://nvc-uk.com/wp-content/uploads/2015/12/CNVCFeelingsList-1.pdf)
-* [cnvc.org – Gefühlsliste](https://www.cnvc.org/training/resource/feelings-inventory)
+* [cnvc.org – Gefühlsliste](https://www.cnvc.org/store/feelings-and-needs-inventory)
 
 #### Gefühle, wenn deine Bedürfnisse erfüllt sind
 
@@ -172,7 +177,7 @@ Formuliere eine konkrete Handlungsbitte, um das gerade erkannte Bedürfnis zu er
 ## Menschliche Bedürfnisse und menschliche Entwicklung
 
 * [Universelle menschliche Bedürfnisse](https://baynvc.org/wp-content/uploads/2015/06/Universal-Human-Needs.jpg)
-* [cnvc – Bedürfnisliste](https://www.cnvc.org/training/resource/needs-inventory) 
+* [cnvc – Bedürfnisliste](https://www.cnvc.org/store/feelings-and-needs-inventory) 
 * [Max-Neefs Modell menschlicher Entwicklung](http://www.rainforestinfo.org.au/background/maxneef.htm) – [Wiki der p2pfoundation](https://wiki.p2pfoundation.net/Max-Neef_Model_of_Human-Scale_Development)
   > Max-Neef unterscheidet folgende grundlegende menschliche Bedürfnisse: **Existenzsicherung**, **Schutz**, **Zuneigung**, **Verstehen**, **Teilhabe**, **Erholung** (im Sinne von Freizeit, Zeit zum Nachdenken oder Muße), **Schöpfung**, **Identität und Freiheit**. Bedürfnisse werden außerdem anhand der existenziellen Kategorien Sein, Haben, Tun und Interagieren definiert. Aus diesen Dimensionen entsteht eine Matrix mit 36 Feldern, die mit Beispielen für Möglichkeiten zur Erfüllung dieser Bedürfnisse gefüllt werden kann.
 
@@ -442,3 +447,11 @@ Formuliere eine konkrete Handlungsbitte, um das gerade erkannte Bedürfnis zu er
 > Tel.: +1.505.244.4041 | Fax: +1.505.247.0414 | Nur USA: 800 255 7696
 >
 > „Wir stellen unsere Materialien kostenlos zur Verfügung und freuen uns über Spenden. Ein Beitrag, der deine Wertschätzung für unser Angebot und den Nutzen widerspiegelt, den du daraus ziehst, wird zur Weiterentwicklung und Verbreitung der Gewaltfreien Kommunikation eingesetzt. Wir hoffen, dass du darin genügend Wert findest, um unsere Arbeit und diejenigen von uns, die sie leisten, unterstützen zu wollen. Es besteht jedoch keinerlei Verpflichtung, unabhängig davon, wie viele Kopien du druckst oder verteilst, es sei denn, du nutzt die Informationen gewinnorientiert. Wenn du diese Informationen gewinnorientiert nutzen möchtest, kontaktiere uns bitte bezüglich einer Lizenzierung des Materials.“
+
+---
+
+### Hinweise zur Übersetzung und Quellenangabe
+Diese deutsche Fassung basiert auf dem englischsprachigen Projekt [Marshall Rosenberg – Nonviolent Communication – Study Companion](https://github.com/cognitivetech/Marshall-Rosenberg-NVC).
+Die Übersetzung wurde unabhängig erstellt und ist weder vom ursprünglichen Autor noch vom Center for Nonviolent Communication (CNVC) geprüft oder autorisiert.
+Die Inhalte wurden nach bestem Wissen sinngemäß und möglichst originalgetreu ins Deutsche übertragen. Einzelne externe Links wurden gegebenenfalls aktualisiert, um weiterhin auf möglichst gleichwertige Inhalte zu verweisen.
+Für die ursprünglichen Inhalte und deren Interpretation bleibt das [englische Original](https://github.com/cognitivetech/Marshall-Rosenberg-NVC) die maßgebliche Referenz.
