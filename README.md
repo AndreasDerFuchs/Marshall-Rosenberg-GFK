@@ -319,6 +319,7 @@ Formuliere eine konkrete Handlungsbitte, um das gerade erkannte Bedürfnis zu er
 * [Vollkommene Ehrlichkeit/Ganzes Herz: Empathieentwicklung und Konfliktlösungsfähigkeiten fördern. Eine Strategie zur Gewaltprävention](https://nvc-global.net/wp-content/uploads/2019/04/MLittle_Thesis0408.pdf) Marion Little, BA Linguistik, University of Victoria, 2002
 
 [![](https://baynvc.org/wp-content/uploads/2015/06/NVC-Tree-of-Life-1100x1424.jpg)](https://baynvc.org/the-nvc-tree-of-life/)
+[![GFK-Baum des Lebens – deutsche Übersetzung](https://wertedatenbank.de/gfk/wp-content/uploads/2026/10/GFK-Baum-des-Lebens.png)](https://wertedatenbank.de/gfk/wp-content/uploads/2026/10/GFK-Baum-des-Lebens.png)
 
 ## Wolfs- und Giraffensprache
 
